@@ -14,5 +14,3 @@ print(disk)
 
 net = psutil.net_io_counters()
 print(net)
-
-print()
